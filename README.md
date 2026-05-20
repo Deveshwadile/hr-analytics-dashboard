@@ -38,11 +38,3 @@ This project helps organizations:
 2. Open it in Power BI Desktop
 3. Load the dataset if required
 4. Explore the interactive dashboard
-
-## 📷 Dashboard Preview
-
-(Add screenshots here)
-
-## 👨‍💻 Author
-
-Vaibhav Sonar
